@@ -1,0 +1,1 @@
+this is another section of our app that has components and API integration part of the entire project
